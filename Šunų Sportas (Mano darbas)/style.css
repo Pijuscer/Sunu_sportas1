@@ -1,0 +1,130 @@
+body{
+	background-image: url("background.png");
+}
+#sunSportas{
+	padding:120px;
+}
+.griztiPagr{
+  background-color: #008B8B; 
+  border: none;
+  color: white;
+  padding: 20px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  border-radius: 30px 30px 30px 30px;
+  font-family: "Arial Black";
+}
+.griztiPagr:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  color: #00FFFF;
+}
+
+.griztiPagr{
+	margin-bottom:60px;
+}
+.agilityTekstas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.taisykliuSarasas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+
+}
+
+.placiauApieAgility, .placiauRungtysAgility, .placiauTrenAgility, .placiauTaisyklesAgility, .placiauApieJėgosSportas, .placiauRungtysJėgosSportas, .placiauTaisyklesJėgosSportas, .placiauTrenJėgosSportas, .placiauApieŠunųLėkščiasvydis, .placiauRungtysŠunųLėkščiasvydis, .placiauTaisyklesŠunųLėkščiasvydis, .placiauTrenŠunųLėkščiasvydis{
+  background-color:#20B2AA;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: "Impact";
+  margin-top: 30px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.taisykliuSarasas{
+	list-style-type: circle;
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.rungtysAgilityTekstas{
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+.UgioKategorijos{
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+.TrasuLygiai{
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+.RungtysOpenSenior{
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+.RungtysBarjerai{
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+
+.treneriaiAgilityTekstas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.rungtysJegosSportasTekstas{
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+.jegosSportasTekstas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.treneriaiJegosSportasTekstas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.šunųLėkščiasvydisTekstas{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+.rungtysŠunųLėkščiasvydisTekstas{
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+.spalvaNavbar{
+	background-image: linear-gradient(to right, #486A7C, #619BBA);
+}
+.navbar-brand{color: white!important;}
+.nav-link{color:white!important;}
+.nav-link:hover{color:#61BAA2!important;}
+.navbar-brand{
+	font-family: "Dollie Script Personal Use"
+}
+.navbar-brand{font-style: italic !important;}
+.navbar-brand{font-size: 30px !important;}
+.navbar-toggler{color:white!important;}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.linkai{
+	font-size: 22px; 
+	font-family: "Franklin Gothic Demi";
+	padding-right: .50rem !important;
+}
+.tekstasPagrPsl{
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
